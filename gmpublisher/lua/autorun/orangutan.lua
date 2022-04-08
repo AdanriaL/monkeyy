@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Orangutan","models/vedatys/orangutan.mdl" )
